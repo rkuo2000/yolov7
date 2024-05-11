@@ -1,5 +1,4 @@
 # YOLOv7 for Kaggle
-## Kaggle examples: 
 * [YOLOv7 Pothole Detection](https://kaggle.com/rkuo2000/yolov7-pothole-detection)
 * [YOLOv7 RefrigeratoryFood](https://kaggle.com/rkuo2000/yolov7-refrigeratoryFood)
   
