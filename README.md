@@ -1,4 +1,8 @@
-# Official YOLOv7
+# YOLOv7 for Kaggle
+## Kaggle examples: 
+* [YOLOv7 Pothole Detection](https://kaggle.com/rkuo2000/yolov7-pothole-detection)
+* [YOLOv7 RefrigeratoryFood](https://kaggle.com/rkuo2000/yolov7-refrigeratoryFood)
+wegiths/best.pt is using [refrigeratory-food dataset](https://universe.roboflow.com/computer-vision-group-ji0bm/group_work/dataset/3) trained for 100 epochs<br>
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
